@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+}
+
+#top-header {
+  display: flex;
+  background-color: black;
+  padding: 0 10px;
+}
+
+.header-link {
+  padding: 5px;
+}
+
+.header-link a {
+  text-decoration: none;
+  color: grey;
+}
+
+.link-left {
+  float: left;
+}
+
+#space {
+  width: 52%;
+}
+
+.link-right {
+  float: right;
+}
+
+#news a {
+  color: white;
+}
